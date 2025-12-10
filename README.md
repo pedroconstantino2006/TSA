@@ -1,5 +1,6 @@
 # TSA
 Projeto final disciplina Scripting
-## Pedro Constantino 
+## Autor
+Pedro Constantino 
 ## Tema
 Limpeza automática de ficheiros temporários
